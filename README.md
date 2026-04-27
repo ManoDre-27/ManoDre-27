@@ -131,6 +131,40 @@ $andre = [
 
 ---
 
+### 🔑 [Password Manager Desktop](https://github.com/ManoDre-27/password-manager-vb) — VB.NET Windows Forms
+
+> Full-featured desktop app for managing passwords and client records with UI, statistics and reports.
+
+- Login system, categorised password vault, client management
+- Statistics dashboard + Crystal Reports viewer
+- Configurable ODBC database connection
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManoDre-27/password-manager-vb)
+
+---
+
+### 🏠 [Real Estate Manager](https://github.com/ManoDre-27/real-estate-manager) — C# Console CRUD
+
+> Console app for managing property listings — add, edit, delete, list and search.
+
+- Struct-based data model, interactive menu, case-insensitive search
+- Built with **C# / .NET Framework**
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManoDre-27/real-estate-manager)
+
+---
+
+### 🎰 [Euromilhões Simulator](https://github.com/ManoDre-27/euromilhoes-simulator) — C# Algorithms
+
+> Simulates a Euromilhões draw — random generation + hand-written BubbleSort.
+
+- 5 numbers (1–50) + 2 stars (1–13), sorted and displayed
+- BubbleSort implemented from scratch, clean modular code
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManoDre-27/euromilhoes-simulator)
+
+---
+
 ## 💼 Experience
 
 **Software Developer Intern · Newness** *(Secondary School Internship, 2026)*
