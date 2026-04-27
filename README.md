@@ -1,5 +1,6 @@
 
 <div align="center">
+    
 # André Pereira
 
 ### Full-Stack & Mobile Developer · Portugal 🇵🇹
